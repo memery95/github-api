@@ -1,0 +1,30 @@
+
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+  
+#userName {
+    padding: .35em 0;
+}
+  
+.hidden {
+    display:none;
+}
+  
+.list-item {
+    margin: 1.25em;
+}
+  
+.repo-title,
+.repo-url {
+    margin: 0;
+}
